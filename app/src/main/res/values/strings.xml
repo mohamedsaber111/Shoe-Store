@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">ShoeStore</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="enter_name">Enter User Name</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="sign_up">SignUp</string>
+    <string name="log_in">LogIn</string>
+    <string name="welcome_to_shoe_store">Welcome To Shoe Store</string>
+    <string name="click_button_to_go_instruction_page">Click Button To Go Instruction page</string>
+    <string name="go">Go</string>
+    <string name="welcome_to_instruction_page">Welcome To Instruction Page</string>
+    <string name="info">"press button to go shoe menu page when you pressed to add Button you can add new shoe with its information then you can press cancel to cancel this process or press add button to add this item to list "</string>
+    <string name="go_to_list_item">Go to List Item</string>
+    <string name="log_out">Log out</string>
+    <string name="add_new_shoe">Add New Shoe</string>
+    <string name="enter_shoe_description">enter shoe description</string>
+    <string name="enter_shoe_size">enter shoe size</string>
+    <string name="enter_shoe_company">enter shoe company</string>
+    <string name="enter_shoe_name">enter shoe name</string>
+    <string name="enter_shoe_details">Enter Shoe Details</string>
+    <string name="shoe_name">Name</string>
+    <string name="company">Company</string>
+    <string name="size">Shoe Size</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="description">Description</string>
+    <string name="shoe_scroll">Shoe Scroll</string>
+</resources>
